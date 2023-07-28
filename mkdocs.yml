@@ -5,4 +5,5 @@ nav:
   - About: abc.md
   - xyz : xyz.md
   - Instruction: page3.md
+  - page4: page4.md
 theme: readthedocs
