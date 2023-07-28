@@ -4,5 +4,5 @@ nav:
   - Home: index.md
   - About: abc.md
   - xyz : xyz.md
-  -- Instruction: page3.md
+  - Instruction: page3.md
 theme: readthedocs
