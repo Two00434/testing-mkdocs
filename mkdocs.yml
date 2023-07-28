@@ -1,0 +1,7 @@
+site_name: MkLourm123
+site_url: https://www.google.com
+nav:
+  - Home: index.md
+  - About: abc.md
+  - xyz : xyz.md
+#theme: readthedocs
